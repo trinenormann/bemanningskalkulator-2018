@@ -6,4 +6,6 @@ For noen år siden ble bemanningsnormen for barnehager innført, og jeg bestemte
 * Da jeg var ferdig med å lage programmet mitt, kjørte jeg først LagBhgDatabase, som oppretter en tabell kalt 'barnehage' i MySQL og fyller den med innhold fra de to CSV-filene. OBS! Krever at man har brukernavn og passord til databasen.
 * Deretter kunne jeg kjøre hovedprogrammet BemanningsKalkulator, som oppretter et enkelt GUI hvor man kan velge fra en liste med barnehager og se om de oppfyller bemanningsnormen eller ikke. OBS! Krever at man har brukernavn og passord til databasen.
 
+![Bilde av bemanningskalkulator](img/Bemanningskalkulator.PNG?raw=true)
 
+PS. Her kan du se den faktiske bemanningskalkulatoren som Utdanningsdirektoratet utviklet selv: https://www.udir.no/tall-og-forskning/statistikk/statistikk-barnehage/bemanningskalkulator-barnehage/
